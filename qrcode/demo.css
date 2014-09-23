@@ -1,0 +1,4 @@
+*{font-family:Arial}
+input[type=button]{background:#30C0FF;color:#fff;font-size:11px;border:solid 1px #B2B2B2;border-radius:5px;padding:5px;}
+h1,h2,h3{text-shadow: #595959 0px 0px 3px;}
+fieldset{-moz-border-radius: 4px;-webkit-border-radius:4px;-o-border-radius:4px;}
